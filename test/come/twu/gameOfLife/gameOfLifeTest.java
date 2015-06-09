@@ -4,14 +4,14 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class gameOfLifeTest {
+public class GameOfLifeTest {
 
     @Test
     public void testToCheckIfStateZeroIsInitialzed() {
-        gameOfLife game = new gameOfLife();
+        GameOfLife game = new GameOfLife();
 
         int actualSum = 0;
 
-        assertEquals(0, game.sumOfRows());
+        assertEquals(actualSum, game.sumOfRows());
     }
 }
