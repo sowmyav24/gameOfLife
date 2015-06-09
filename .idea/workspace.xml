@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d4271d8-eefc-4c62-b033-a1e0c8249b9b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/GameOfLife/come/twu/gameOfLife/gameOfLife.class" afterPath="$PROJECT_DIR$/out/production/GameOfLife/come/twu/gameOfLife/GameOfLife.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/test/GameOfLife/come/twu/gameOfLife/gameOfLifeTest.class" afterPath="$PROJECT_DIR$/out/test/GameOfLife/come/twu/gameOfLife/GameOfLifeTest.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/come/twu/gameOfLife/gameOfLife.java" afterPath="$PROJECT_DIR$/src/come/twu/gameOfLife/GameOfLife.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1d4271d8-eefc-4c62-b033-a1e0c8249b9b" name="Default" comment="" />
     <ignored path="GameOfLife.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -555,12 +550,12 @@
       <option name="number" value="Default" />
       <updated>1433742743844</updated>
       <workItem from="1433742745343" duration="4563000" />
-      <workItem from="1433827544208" duration="613000" />
+      <workItem from="1433827544208" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5176000" />
+    <option name="totallyTimeSpent" value="5437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="948" extended-state="6" />
@@ -583,7 +578,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
